@@ -1,0 +1,58 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Rajar",
+      "photo": "https://www.freeiconspng.com/uploads/account-profile-icon-1.png",
+      "mobile": "0987654321",
+      "email": "abcde@gmail.com",
+      "title": "Soft",
+      "company": "PBO",
+      "group": "1"
+    },
+    {
+      "id": "2",
+      "name": "Tom",
+      "photo": "https://www.freeiconspng.com/uploads/account-profile-icon-1.png",
+      "mobile": "0987654321",
+      "email": "fawgawag@gmail.com",
+      "title": "Mem",
+      "company": "Fsoft",
+      "group": "2"
+    },
+    {
+      "id": "3",
+      "name": "Cat",
+      "photo": "https://www.freeiconspng.com/uploads/account-profile-icon-1.png",
+      "mobile": "0987654321",
+      "email": "4864fawfa@gmail.com",
+      "title": "Dev",
+      "company": "PBO",
+      "group": "3"
+    },
+    {
+      "id": "4",
+      "name": "Jerry",
+      "photo": "https://www.freeiconspng.com/uploads/account-profile-icon-1.png",
+      "mobile": "0987654321",
+      "email": "abcde@gmail.com",
+      "title": "Ser",
+      "company": "PBO",
+      "group": "2"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Service"
+    },
+    {
+      "id": "2",
+      "name": "Company"
+    },
+    {
+      "id": "3",
+      "name": "Dev"
+    }
+  ]
+}
